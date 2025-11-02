@@ -10,7 +10,7 @@ I'm a game developer and computer scientist with a passion for creating innovati
 - **Master of Science in Computer Science** *(in progress)*  
   Northeastern University, GPA: 3.84
 
-I specialize in **Machine Learning** and **Computer Vision**, with a strong foundation in game development and AI design. My work spans the worlds of interactive entertainment and cutting-edge tech, and I'm always seeking new challenges in **healthcare tech** and **fintech** (including quant finance).
+I specialize in **Machine Learning** and **Computer Vision**, with a strong foundation in game development and AI design. My work spans the worlds of interactive entertainment and cutting-edge tech, and I'm always seeking new challenges in **healthcare tech** and **games**.
 
 ## 🛠️ Skills
 
