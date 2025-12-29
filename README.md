@@ -64,12 +64,6 @@ I’m an AI Engineer specializing in **Computer Vision** and **Machine Learning*
 - **Full Sail University** — B.S. Game Design (Sep 2021 – Jun 2023) · Salutatorian · **GPA: 3.96**
 - **Honors**: Course Director’s Award (Technical Writing)
 
-## GitHub stats
-
-> Lightweight “widgets” (images) so this profile can function like a small portfolio landing page.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimblewick&show_icons=true&hide_title=true&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kimblewick&layout=compact)
 
 ## Contact
 
