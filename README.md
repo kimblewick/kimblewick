@@ -1,72 +1,36 @@
 # Raj Kavathekar
 
-**Computer Vision Engineer** · **AI Engineer Intern @ EasyChamp** · M.S. Computer Science (in progress), Northeastern University
+**ML/AI Engineer** · MS Computer Science @ Northeastern University (GPA: 3.84)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-raj--kavathekar-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-kavathekar/)
-[![GitHub](https://img.shields.io/badge/GitHub-kimblewick-181717?logo=github&logoColor=white)](https://github.com/kimblewick)
-[![Email](https://img.shields.io/badge/Email-rajkavathekar25%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:rajkavathekar25@gmail.com)
+I build machine learning systems that solve real problems — from spatiotemporal CNNs for live soccer analytics to full-stack AI applications on AWS serverless infrastructure. Currently focused on NLP, computer vision, and deploying ML at scale.
 
-I’m an AI Engineer specializing in **Computer Vision** and **Machine Learning**, currently building video analytics systems for sports at **EasyChamp**. I come from a game development background, which translates into strong realtime instincts, product thinking, and polished demos.
+---
 
-## Experience
+### What I'm Working On
 
-### AI Engineer Intern — EasyChamp, Inc. (Sep 2025 – Present)
+- **Context-Aware Toxicity Detection** — NLP research using game state features (player deaths, win/loss, performance metrics) alongside chat text to improve toxicity classification in multiplayer games. Fine-tuning transformer models on ToxBuster and CONDA datasets.
+- **CodeFlow** — A VS Code extension for Blueprint-style visual code flow visualization, combining AST parsing (tree-sitter + TypeScript Compiler API) with interactive graph rendering (React Flow + elkjs).
 
-- Built and trained **spatiotemporal CNNs** in **PyTorch** for soccer action classification (e.g., pass vs. drive), adapting Conv2D/Conv3D encoders for multi-frame sequences.
-- Developed an end-to-end **video analytics pipeline** combining custom models with **RF-DETR** detection and **SAM 3** multi-object tracking to extract performance metrics from sports footage.
-- Optimized deployment via **ONNX** and **Roboflow**, exposing inference through **Flask REST APIs** for scalable processing.
+### Featured Work
 
-### AI Designer — Ravenous Studios (Sep 2023 – Jun 2024)
+| Project | What It Does | Tech |
+|---------|-------------|------|
+| [Tennis Prediction Model](https://github.com/kimblewick/Tennis-Prediction-Model) | Predicts ATP match outcomes using 40 years of data with ELO ratings, H2H stats, and rolling metrics. ~70% accuracy with XGBoost. | Python, Scikit-learn, XGBoost |
+| [AR Pong](https://github.com/kimblewick/AR_Pong) | Augmented reality pong on any flat surface using chessboard pose estimation and real-time hand tracking. | Python, OpenCV, MediaPipe |
+| [MiraAI](https://github.com/kimblewick/MiraAI) | AI astrology chatbot with birth chart generation, deployed on AWS serverless (CloudFront, Cognito, API Gateway, Lambda, DynamoDB, Bedrock) with Terraform IaC. | React, AWS, Terraform |
+| [Beaver's Day Out](https://github.com/kimblewick/Sokoban_Game) | Sokoban puzzle game with infinite procedurally generated levels, verified solvable via BFS. | Java |
 
-- Led gameplay AI development in **Unreal Engine 5** using **Decision Trees** + **C++**, shipping multiple enemy behaviors with responsive combat logic.
-- Collaborated in an Agile team, using **Perforce** for version control and **Jira/Confluence** for planning and documentation.
+### Experience
 
-## Featured work
+Most recently: **AI Engineer @ EasyChamp** — built spatiotemporal CNN models for soccer action classification (80.5% CV accuracy, 87% test) and a real-time video analytics pipeline using PyTorch, RF-DETR, SAM, and ONNX.
 
-- **[Tennis Match Prediction Model](https://github.com/kimblewick/Tennis-Prediction-Model)** — ML pipeline predicting ATP men’s singles outcomes (1985–2024) using **ELO + rolling metrics + H2H features** with a **temporal split**; best model (**XGBoost**) reaches ~**70%** test accuracy.
-- **[AR Pong](https://github.com/kimblewick/AR_Pong)** — computer vision AR pong using **OpenCV** (chessboard detection + pose estimation) and **MediaPipe** (hand tracking) with camera calibration + realtime gameplay.
-- **[MiraAI](https://github.com/kimblewick/MiraAI)** — cloud-native AI app (React SPA + AWS serverless backend) with Cognito auth, DynamoDB persistence, and configurable LLM calls (AWS Bedrock); I owned end-to-end UI/UX + frontend↔backend integration.
+### Tech I Use
 
-## Tech stack (quick scan)
+**ML/AI:** PyTorch · TensorFlow · OpenCV · Scikit-learn · ONNX · Ultralytics · LangChain · Hugging Face  
+**Cloud & Infra:** AWS (Lambda, DynamoDB, Bedrock, Cognito, API Gateway, CloudFront, S3) · Terraform · Docker · Kubernetes  
+**Languages:** Python · Java · C++ · JavaScript · SQL  
+**Web:** React · Node.js · Flask · Django
 
-**Languages**
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=coffeescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
-
-**CV / ML**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white)
-
-**Cloud / DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-
-**Game dev (background)**
-
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?logo=unrealengine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
-
-## Education & honors
-
-- **Northeastern University** — M.S. Computer Science (Sep 2024 – Dec 2026) · **GPA: 3.8**
-- **Full Sail University** — B.S. Game Design (Sep 2021 – Jun 2023) · Salutatorian · **GPA: 3.96**
-- **Honors**: Course Director’s Award (Technical Writing)
-
-
-## Contact
-
-- **LinkedIn**: https://www.linkedin.com/in/raj-kavathekar/
-- **Email**: rajkavathekar25@gmail.com
-- **Pronouns**: he/him
+[LinkedIn](https://www.linkedin.com/in/raj-kavathekar/) · rajkavathekar25@gmail.com
