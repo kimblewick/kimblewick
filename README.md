@@ -16,8 +16,8 @@ I build machine learning systems that solve real problems — from spatiotempora
 | Project | What It Does | Tech |
 |---------|-------------|------|
 | [Tennis Prediction Model](https://github.com/kimblewick/Tennis-Prediction-Model) | Predicts ATP match outcomes using 40 years of data with ELO ratings, H2H stats, and rolling metrics. ~70% accuracy with XGBoost. | Python, Scikit-learn, XGBoost |
-| [AR Pong](https://github.com/kimblewick/AR_Pong) | Augmented reality pong on any flat surface using chessboard pose estimation and real-time hand tracking. | Python, OpenCV, MediaPipe |
 | [MiraAI](https://github.com/kimblewick/MiraAI) | AI astrology chatbot with birth chart generation, deployed on AWS serverless (CloudFront, Cognito, API Gateway, Lambda, DynamoDB, Bedrock) with Terraform IaC. | React, AWS, Terraform |
+| [AR Pong](https://github.com/kimblewick/AR_Pong) | Augmented reality pong on any flat surface using chessboard pose estimation and real-time hand tracking. | Python, OpenCV, MediaPipe |
 | [Beaver's Day Out](https://github.com/kimblewick/Sokoban_Game) | Sokoban puzzle game with infinite procedurally generated levels, verified solvable via BFS. | Java |
 
 ### Experience
