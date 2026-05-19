@@ -1,6 +1,6 @@
 # Raj Kavathekar
 
-**ML/AI Engineer** · MS Computer Science @ Northeastern University (GPA: 3.84)
+**ML/AI Engineer** · MS Computer Science @ Northeastern University (GPA: 3.9)
 
 I build machine learning systems that solve real problems — from spatiotemporal CNNs for live soccer analytics to full-stack AI applications on AWS serverless infrastructure. Currently focused on NLP, computer vision, and deploying ML at scale.
 
