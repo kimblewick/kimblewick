@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-label="Raj Kavathekar — CTO and co-founder, trivia.dev">
+<style>
+/* Static by design: GitHub embeds README svg as an img element, where CSS
+   animations never run and fill-mode would pin content hidden. */
+.s{fill:none;stroke-linecap:round;stroke-linejoin:round}
+.mono{font-family:ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,monospace}
+.serif{font-family:Georgia,"Iowan Old Style","Times New Roman",serif}
+</style>
+<rect width="1200" height="360" fill="#0A0B0D"/>
+<g stroke="#FFFFFF" stroke-opacity=".025" stroke-width="1">
+<line x1="24" y1="24" x2="24" y2="336"/>
+<line x1="72" y1="24" x2="72" y2="336"/>
+<line x1="120" y1="24" x2="120" y2="336"/>
+<line x1="168" y1="24" x2="168" y2="336"/>
+<line x1="216" y1="24" x2="216" y2="336"/>
+<line x1="264" y1="24" x2="264" y2="336"/>
+<line x1="312" y1="24" x2="312" y2="336"/>
+<line x1="360" y1="24" x2="360" y2="336"/>
+<line x1="408" y1="24" x2="408" y2="336"/>
+<line x1="456" y1="24" x2="456" y2="336"/>
+<line x1="504" y1="24" x2="504" y2="336"/>
+<line x1="552" y1="24" x2="552" y2="336"/>
+<line x1="600" y1="24" x2="600" y2="336"/>
+<line x1="648" y1="24" x2="648" y2="336"/>
+<line x1="696" y1="24" x2="696" y2="336"/>
+<line x1="744" y1="24" x2="744" y2="336"/>
+<line x1="792" y1="24" x2="792" y2="336"/>
+<line x1="840" y1="24" x2="840" y2="336"/>
+<line x1="888" y1="24" x2="888" y2="336"/>
+<line x1="936" y1="24" x2="936" y2="336"/>
+<line x1="984" y1="24" x2="984" y2="336"/>
+<line x1="1032" y1="24" x2="1032" y2="336"/>
+<line x1="1080" y1="24" x2="1080" y2="336"/>
+<line x1="1128" y1="24" x2="1128" y2="336"/>
+<line x1="1176" y1="24" x2="1176" y2="336"/>
+<line x1="24" y1="24" x2="1176" y2="24"/>
+<line x1="24" y1="72" x2="1176" y2="72"/>
+<line x1="24" y1="120" x2="1176" y2="120"/>
+<line x1="24" y1="168" x2="1176" y2="168"/>
+<line x1="24" y1="216" x2="1176" y2="216"/>
+<line x1="24" y1="264" x2="1176" y2="264"/>
+<line x1="24" y1="312" x2="1176" y2="312"/>
+</g>
+<rect class="s" x="24" y="24" width="1152" height="312" stroke="#2E343C" stroke-width="1.25"/>
+<g class="s" stroke="#8A929B" stroke-opacity=".7" stroke-width="1.25">
+<line x1="15" y1="24" x2="33" y2="24"/><line x1="24" y1="15" x2="24" y2="33"/>
+<line x1="1167" y1="24" x2="1185" y2="24"/><line x1="1176" y1="15" x2="1176" y2="33"/>
+<line x1="15" y1="336" x2="33" y2="336"/><line x1="24" y1="327" x2="24" y2="345"/>
+<line x1="1167" y1="336" x2="1185" y2="336"/><line x1="1176" y1="327" x2="1176" y2="345"/>
+</g>
+<text class="serif" x="70" y="146" font-size="62" letter-spacing="16" fill="#E6E1D5">RAJ</text>
+<text class="serif" x="70" y="216" font-size="62" letter-spacing="16" fill="#E6E1D5">KAVATHEKAR</text>
+<text class="mono" x="1128" y="152" text-anchor="end" font-size="12.5" letter-spacing="3.2" fill="#C8A24A">CTO &#47;&#47; CO-FOUNDER</text>
+<text class="mono" x="1128" y="178" text-anchor="end" font-size="12.5" letter-spacing="3.2" fill="#8A929B">TRIVIA.DEV</text>
+<line class="s" x1="72" y1="252" x2="1128" y2="252" stroke="#2E343C" stroke-width="1.4"/>
+<g class="s" stroke="#2E343C" stroke-width="1.25">
+<line x1="72" y1="252" x2="72" y2="261"/>
+<line x1="120" y1="252" x2="120" y2="257"/>
+<line x1="168" y1="252" x2="168" y2="257"/>
+<line x1="216" y1="252" x2="216" y2="257"/>
+<line x1="264" y1="252" x2="264" y2="261"/>
+<line x1="312" y1="252" x2="312" y2="257"/>
+<line x1="360" y1="252" x2="360" y2="257"/>
+<line x1="408" y1="252" x2="408" y2="257"/>
+<line x1="456" y1="252" x2="456" y2="261"/>
+<line x1="504" y1="252" x2="504" y2="257"/>
+<line x1="552" y1="252" x2="552" y2="257"/>
+<line x1="600" y1="252" x2="600" y2="257"/>
+<line x1="648" y1="252" x2="648" y2="261"/>
+<line x1="696" y1="252" x2="696" y2="257"/>
+<line x1="744" y1="252" x2="744" y2="257"/>
+<line x1="792" y1="252" x2="792" y2="257"/>
+<line x1="840" y1="252" x2="840" y2="261"/>
+<line x1="888" y1="252" x2="888" y2="257"/>
+<line x1="936" y1="252" x2="936" y2="257"/>
+<line x1="984" y1="252" x2="984" y2="257"/>
+<line x1="1032" y1="252" x2="1032" y2="261"/>
+<line x1="1080" y1="252" x2="1080" y2="257"/>
+<line x1="1128" y1="252" x2="1128" y2="257"/>
+</g>
+<g ><text class="serif" transform="translate(72,306) scale(-1,1)" text-anchor="end" font-size="16" font-style="italic" fill="#8A929B" fill-opacity=".85">make your software agentic</text></g>
+</svg>

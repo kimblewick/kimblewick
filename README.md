@@ -1,36 +1,50 @@
-# Raj Kavathekar
+<img src="assets/plate.svg" alt="Raj Kavathekar — CTO and co-founder, trivia.dev" width="100%">
 
-**ML/AI Engineer** · MS Computer Science @ Northeastern University (GPA: 3.9)
+## ▚ &nbsp;BUILDING
 
-I build machine learning systems that solve real problems — from spatiotemporal CNNs for live soccer analytics to full-stack AI applications on AWS serverless infrastructure. Currently focused on NLP, computer vision, and deploying ML at scale.
+An agentic layer for software that already exists. Index a product's API surface and components; turn a plain-language prompt into a working mini-app *inside* that product.
 
----
-
-### What I'm Working On
-
-- **Context-Aware Toxicity Detection** — NLP research using game state features (player deaths, win/loss, performance metrics) alongside chat text to improve toxicity classification in multiplayer games. Fine-tuning transformer models on ToxBuster and CONDA datasets.
-- **CodeFlow** — A VS Code extension for Blueprint-style visual code flow visualization, combining AST parsing (tree-sitter + TypeScript Compiler API) with interactive graph rendering (React Flow + elkjs).
-
-### Featured Work
-
-| Project | What It Does | Tech |
-|---------|-------------|------|
-| [Tennis Prediction Model](https://github.com/kimblewick/Tennis-Prediction-Model) | Predicts ATP match outcomes using 40 years of data with ELO ratings, H2H stats, and rolling metrics. ~70% accuracy with XGBoost. | Python, Scikit-learn, XGBoost |
-| [MiraAI](https://github.com/kimblewick/MiraAI) | AI astrology chatbot with birth chart generation, deployed on AWS serverless (CloudFront, Cognito, API Gateway, Lambda, DynamoDB, Bedrock) with Terraform IaC. | React, AWS, Terraform |
-| [AR Pong](https://github.com/kimblewick/AR_Pong) | Augmented reality pong on any flat surface using chessboard pose estimation and real-time hand tracking. | Python, OpenCV, MediaPipe |
-| [Beaver's Day Out](https://github.com/kimblewick/Sokoban_Game) | Sokoban puzzle game with infinite procedurally generated levels, verified solvable via BFS. | Java |
-
-### Experience
-
-Most recently: **AI Engineer @ EasyChamp** — built spatiotemporal CNN models for soccer action classification (80.5% CV accuracy, 87% test) and a real-time video analytics pipeline using PyTorch, RF-DETR, SAM, and ONNX.
-
-### Tech I Use
-
-**ML/AI:** PyTorch · TensorFlow · OpenCV · Scikit-learn · ONNX · Ultralytics · LangChain · Hugging Face  
-**Cloud & Infra:** AWS (Lambda, DynamoDB, Bedrock, Cognito, API Gateway, CloudFront, S3) · Terraform · Docker · Kubernetes  
-**Languages:** Python · Java · C++ · JavaScript · SQL  
-**Web:** React · Node.js · Flask · Django
+```yaml
+product:   trivia.dev
+role:      CTO // co-founder
+surface:   indexes a product's API endpoints + components
+output:    plain-language prompt -> working mini-app, in-product
+guardrail: user's own permissions, explicit approval before writes
+```
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/raj-kavathekar/) · rajkavathekar25@gmail.com
+## ▚ &nbsp;RESEARCH
+
+**Per-turn context-aware toxicity detection.** Classifiers read a chat message as context-free text. It isn't — the same string means one thing after a death and another after a comeback.
+
+```yaml
+unit:     per turn — each utterance scored against the game state
+          at that moment, not against the match as a whole
+context:  deaths, win/loss, per-player performance
+method:   condition transformers on per-turn state features
+contrib:  method + dataset
+data:     ToxBuster, CONDA
+status:   ongoing
+```
+
+---
+
+## ▚ &nbsp;PRIOR
+
+```ini
+[EasyChamp]                AI Engineer
+task                       soccer action classification
+model                      spatiotemporal CNN
+accuracy                   80.5% CV / 87% test
+pipeline                   PyTorch, RF-DETR, SAM, ONNX
+
+[Northeastern]             MS Computer Science
+```
+
+---
+
+```ini
+linkedin   linkedin.com/in/raj-kavathekar
+mail       rajkavathekar25@gmail.com
+```
